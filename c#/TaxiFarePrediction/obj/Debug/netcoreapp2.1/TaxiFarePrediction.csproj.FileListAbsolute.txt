@@ -1,0 +1,13 @@
+C:\Users\USER\Source\Repos\TaxiFarePrediction\bin\Debug\netcoreapp2.1\TaxiFarePrediction.deps.json
+C:\Users\USER\Source\Repos\TaxiFarePrediction\bin\Debug\netcoreapp2.1\TaxiFarePrediction.runtimeconfig.json
+C:\Users\USER\Source\Repos\TaxiFarePrediction\bin\Debug\netcoreapp2.1\TaxiFarePrediction.runtimeconfig.dev.json
+C:\Users\USER\Source\Repos\TaxiFarePrediction\bin\Debug\netcoreapp2.1\TaxiFarePrediction.dll
+C:\Users\USER\Source\Repos\TaxiFarePrediction\obj\Debug\netcoreapp2.1\TaxiFarePrediction.csprojAssemblyReference.cache
+C:\Users\USER\Source\Repos\TaxiFarePrediction\obj\Debug\netcoreapp2.1\TaxiFarePrediction.csproj.CoreCompileInputs.cache
+C:\Users\USER\Source\Repos\TaxiFarePrediction\obj\Debug\netcoreapp2.1\TaxiFarePrediction.AssemblyInfoInputs.cache
+C:\Users\USER\Source\Repos\TaxiFarePrediction\obj\Debug\netcoreapp2.1\TaxiFarePrediction.AssemblyInfo.cs
+C:\Users\USER\Source\Repos\TaxiFarePrediction\bin\Debug\netcoreapp2.1\Data\taxi-fare-test.csv
+C:\Users\USER\Source\Repos\TaxiFarePrediction\bin\Debug\netcoreapp2.1\Data\taxi-fare-train.csv
+C:\Users\USER\Source\Repos\TaxiFarePrediction\bin\Debug\netcoreapp2.1\TaxiFarePrediction.pdb
+C:\Users\USER\Source\Repos\TaxiFarePrediction\obj\Debug\netcoreapp2.1\TaxiFarePrediction.dll
+C:\Users\USER\Source\Repos\TaxiFarePrediction\obj\Debug\netcoreapp2.1\TaxiFarePrediction.pdb
