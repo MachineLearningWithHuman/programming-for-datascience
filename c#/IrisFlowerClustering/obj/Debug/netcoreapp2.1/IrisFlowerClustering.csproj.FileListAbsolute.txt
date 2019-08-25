@@ -1,0 +1,11 @@
+C:\Users\USER\Source\Repos\IrisFlowerClustering\bin\Debug\netcoreapp2.1\IrisFlowerClustering.deps.json
+C:\Users\USER\Source\Repos\IrisFlowerClustering\bin\Debug\netcoreapp2.1\IrisFlowerClustering.runtimeconfig.json
+C:\Users\USER\Source\Repos\IrisFlowerClustering\bin\Debug\netcoreapp2.1\IrisFlowerClustering.runtimeconfig.dev.json
+C:\Users\USER\Source\Repos\IrisFlowerClustering\bin\Debug\netcoreapp2.1\IrisFlowerClustering.dll
+C:\Users\USER\Source\Repos\IrisFlowerClustering\obj\Debug\netcoreapp2.1\IrisFlowerClustering.csprojAssemblyReference.cache
+C:\Users\USER\Source\Repos\IrisFlowerClustering\obj\Debug\netcoreapp2.1\IrisFlowerClustering.csproj.CoreCompileInputs.cache
+C:\Users\USER\Source\Repos\IrisFlowerClustering\obj\Debug\netcoreapp2.1\IrisFlowerClustering.AssemblyInfoInputs.cache
+C:\Users\USER\Source\Repos\IrisFlowerClustering\obj\Debug\netcoreapp2.1\IrisFlowerClustering.AssemblyInfo.cs
+C:\Users\USER\Source\Repos\IrisFlowerClustering\bin\Debug\netcoreapp2.1\IrisFlowerClustering.pdb
+C:\Users\USER\Source\Repos\IrisFlowerClustering\obj\Debug\netcoreapp2.1\IrisFlowerClustering.dll
+C:\Users\USER\Source\Repos\IrisFlowerClustering\obj\Debug\netcoreapp2.1\IrisFlowerClustering.pdb

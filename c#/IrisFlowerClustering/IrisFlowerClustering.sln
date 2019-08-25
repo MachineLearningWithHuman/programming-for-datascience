@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29102.190
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "IrisFlowerClustering", "IrisFlowerClustering.csproj", "{B1CAEA20-E5BB-49E6-BF74-38C7F1E7A795}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B1CAEA20-E5BB-49E6-BF74-38C7F1E7A795}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B1CAEA20-E5BB-49E6-BF74-38C7F1E7A795}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B1CAEA20-E5BB-49E6-BF74-38C7F1E7A795}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B1CAEA20-E5BB-49E6-BF74-38C7F1E7A795}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {7D4F22E2-B0B6-4964-8CAA-134BB27A4B1C}
+	EndGlobalSection
+EndGlobal
